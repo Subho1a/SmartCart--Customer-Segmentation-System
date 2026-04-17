@@ -1,6 +1,10 @@
 # SmartCart Customer Segmentation System
 
 A Streamlit web application for analyzing and visualizing customer segmentation using K-Means and Agglomerative Clustering algorithms.
+---
+
+
+## Live Demo: https://smartcart--customer-segmentation-system.streamlit.app/
 
 ## 🚀 Features
 
