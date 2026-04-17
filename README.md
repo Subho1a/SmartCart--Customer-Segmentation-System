@@ -1,10 +1,15 @@
 # SmartCart Customer Segmentation System
-
-A Streamlit web application for analyzing and visualizing customer segmentation using K-Means and Agglomerative Clustering algorithms.
+SmartCart is a machine learning–powered application that segments customers based on their purchasing behavior using clustering techniques.
 ---
 
 
-## Live Demo: https://smartcart--customer-segmentation-system.streamlit.app/
+## 🚀 Live Demo
+
+🔗 **Try the App:**
+[SmartCart – Customer Segmentation System](https://smartcart--customer-segmentation-system.streamlit.app/)
+
+---
+
 
 ## 🚀 Features
 
